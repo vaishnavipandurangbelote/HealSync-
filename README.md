@@ -1,10 +1,11 @@
 # 🌿 HealSync — Health Tracker App
 
-\<p align="center">   \<strong>A Simple & Accessible Health Awareness Application\</strong> \</p>
-
-\<p align="center">   \<img src="[https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white](https://img.shields.io/badge/Python-3-blue?logo=python\&logoColor=white)" alt="Python">   \<img src="[https://img.shields.io/badge/GUI-Tkinter-orange](https://img.shields.io/badge/GUI-Tkinter-orange)" alt="Tkinter">   \<img src="[https://img.shields.io/badge/Platform-Desktop-lightgrey](https://img.shields.io/badge/Platform-Desktop-lightgrey)" alt="Desktop">   \<img src="[https://img.shields.io/badge/Project-Academic-green](https://img.shields.io/badge/Project-Academic-green)" alt="Academic Project"> \</p>
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GUI-Tkinter-orange" alt="Tkinter">
+  <img src="https://img.shields.io/badge/Platform-Desktop-lightgrey" alt="Desktop">
+  <img src="https://img.shields.io/badge/Project-Academic-green" alt="Academic Project">
+</p>
 
 ## 💡 About the Project
 
